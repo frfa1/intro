@@ -2,11 +2,10 @@
 
 I'm a newly graduated MSc Computer Scientist from Denmark (IT University of Copenhagen) with a BSc in Data Science.
 
-- 🔍 Currently looking for a full-time job
 - 📈 I love working with large-scale data
 - ✍️ I've done ML projects in...
   - Wind Power forecasting, Computer Vision in Medical Imaging, Natural Language Processing and more
-- 👨‍💻 Used to working with Linux and Windows
+- 👨‍💻 I work with with Linux and Windows
 - 🌷 Interested in driving positive change
 
 ---
